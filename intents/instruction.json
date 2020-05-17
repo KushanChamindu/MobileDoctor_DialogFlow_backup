@@ -1,0 +1,39 @@
+{
+  "id": "d564e01c-c271-4189-aafc-de673a4736a3",
+  "name": "instruction",
+  "auto": true,
+  "contexts": [
+    "awaiting_instruction"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_confirm_reports",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok fine! When you answering questions, you should keep mind what are the units i am asking....                                                                                                                How old are you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

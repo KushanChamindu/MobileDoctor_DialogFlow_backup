@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0280c82b-547d-4545-80f7-c23f03aeabc5",
+    "data": [
+      {
+        "text": "Can I know about services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b631127f-fee8-4c1b-be83-3d609c2327c4",
+    "data": [
+      {
+        "text": "Can you tell me services which you are offering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21005dcd-b1e5-41f9-99bc-8a4a17422af1",
+    "data": [
+      {
+        "text": "Can you tell me about services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5313f9c-7d77-4fdd-83e5-094568b4367d",
+    "data": [
+      {
+        "text": "Services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "253543b4-2259-4149-93ef-b50ff242e0a8",
+    "data": [
+      {
+        "text": "What are the services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4eec24a-51bd-48ac-8e2d-a05a43da2b66",
+    "data": [
+      {
+        "text": "what are the services I can have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da732c1d-955b-44a3-bb3a-7b32c83cf831",
+    "data": [
+      {
+        "text": "what services do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

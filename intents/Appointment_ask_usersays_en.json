@@ -1,0 +1,71 @@
+[
+  {
+    "id": "d5efbf8a-fa29-455a-a63f-8f9506764100",
+    "data": [
+      {
+        "text": "Appointment, please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aa51c70-d3d4-49a7-ab3b-f1fdb2982378",
+    "data": [
+      {
+        "text": "Can I book an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58d4d98b-96a1-4a24-9b91-5f07e4f99d88",
+    "data": [
+      {
+        "text": "How can I book appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "745fbacd-70b5-499c-ace0-cdf6864665b1",
+    "data": [
+      {
+        "text": "Appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78309eae-14ec-4685-95e8-d04a187a4a2e",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "I have",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

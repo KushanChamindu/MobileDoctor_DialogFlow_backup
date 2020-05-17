@@ -1,0 +1,9 @@
+{
+  "id": "fee9a8d9-8317-43b0-a170-1f20ccf084fa",
+  "name": "Diabetes_Mellitus",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,250 @@
+{
+  "id": "8be97e25-2765-4415-bddd-90d33c184eae",
+  "name": "confirm_reports",
+  "auto": true,
+  "contexts": [
+    "awaiting_confirm_reports"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c8ff0767-c33e-4ce7-831a-f88c06490013",
+          "required": true,
+          "dataType": "@sys.age",
+          "name": "age",
+          "value": "$age",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How old are you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "02c7de1f-c3e2-408a-861d-2a599e71e886",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "bp",
+          "value": "$bp",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what is your normal blood pressure (mm/Hg)?                                                                                                              Normal person healthy person has 120 mm/Hg"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d60af24d-c0c0-4292-8cf3-752e7ac0bf53",
+          "required": true,
+          "dataType": "@albumin_level",
+          "name": "al",
+          "value": "$al",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your Albumin level ?                                                                                                                                       (0,1,2,3,4,5)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3868e572-600b-4ce3-9e4e-e7868e736632",
+          "required": true,
+          "dataType": "@pcc",
+          "name": "pcc",
+          "value": "$pcc",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Did you have Pus Cell clumps?                                                                                                                                       \n(present-1 else -0)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c5f6580b-1118-467b-881c-56c1a5cead63",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "bgr",
+          "value": "$bgr",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what is your Blood Glucose Random (mgs/dl)?                                                                                                             Normal healthy person BGR is 140-200mg/dl"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "93ca27cf-eb69-4143-932d-ca27a8be5010",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "bu",
+          "value": "$bu",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How about your Blood Urea concentration (mgs/dl)?                                                                                                   Normal person BU is  7  to 20 mg/dl"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a81c1b72-c307-4b26-8dc8-1ea68f9e0d86",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "sod",
+          "value": "$sod",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How about your Sodium level (mEq/L)?                                                                                                                                     A normal blood sodium level is between 135 and 145(mEq/L)."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9ccc5e55-430b-4e0d-9a78-8f9b395260d2",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "pot",
+          "value": "$pot",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How about your Potassium level (mEq/L)?                                                                                                                            The normal potassium level in the  blood is 3.5-5.0 (mEq/L)."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6d40b8b2-d136-4003-ba6d-adcb9be6566b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "hemo",
+          "value": "$hemo",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How about your Hemoglobin concentration in your blood (gms)?                                                                                    The normal range for hemoglobin is 13.5 to 17.5 grams per deciliter."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a42a014d-6277-40fb-a740-7a7e35bd7bec",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "rbcc",
+          "value": "$rbcc",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your Red Blood Cell Count (millions/cmm) ?                                                                                                          \nThe normal RBC range for men is 4.7 to 6.1 million/cmm"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bb1ed06d-8aa8-4865-87e7-03ed357366a3",
+          "required": true,
+          "dataType": "@Diabetes_Mellitus",
+          "name": "dm",
+          "value": "$dm",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Did you have Diabetes Mellitus ?                                                                                                                                    (present-1 else-0)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "62bb63af-85c4-42a3-9029-741234cec311",
+          "required": true,
+          "dataType": "@appetite",
+          "name": "appet",
+          "value": "$appet",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "how about your appetite?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "218cc208-94cc-4d02-a903-cf9a32d8265a",
+  "name": "integration_specific",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Let\u0027s start 🤠🙂"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_WELCOME"
+    },
+    {
+      "name": "VIBER_WELCOME"
+    },
+    {
+      "name": "SLACK_WELCOME"
+    },
+    {
+      "name": "SKYPE_WELCOME"
+    },
+    {
+      "name": "HANGOUTS_WELCOME"
+    },
+    {
+      "name": "KIK_WELCOME"
+    },
+    {
+      "name": "TELEPHONY_WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

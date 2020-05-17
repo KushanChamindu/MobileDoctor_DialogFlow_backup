@@ -1,0 +1,18 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "good",
+      "very good",
+      "not bad"
+    ]
+  },
+  {
+    "value": "0",
+    "synonyms": [
+      "not good",
+      "very bad",
+      "bad"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "de6791ee-68db-4da3-82c9-988b36d45233",
+  "name": "appetite",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

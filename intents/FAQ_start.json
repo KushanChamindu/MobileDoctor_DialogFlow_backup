@@ -1,0 +1,37 @@
+{
+  "id": "17abdc9a-edba-4ec1-a033-4a0a278b19e8",
+  "name": "FAQ_start",
+  "auto": true,
+  "contexts": [
+    "awaiting_need"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "what is the question?",
+            "Tell me that question?",
+            "Please state your problem"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

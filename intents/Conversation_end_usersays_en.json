@@ -1,0 +1,115 @@
+[
+  {
+    "id": "0f3e3554-8482-47e2-97de-87e5a701716f",
+    "data": [
+      {
+        "text": "Take Care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3a0845c-8a1f-44ce-8fef-cf3149339dae",
+    "data": [
+      {
+        "text": "I\u0027m off!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "262297ed-1b8e-42f9-8ca7-a9b475556ce6",
+    "data": [
+      {
+        "text": "I gotta run",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c17de6d3-0296-4747-ac14-edadff4a69af",
+    "data": [
+      {
+        "text": "See you later!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc0a187c-d243-4494-9cbc-eb8fe8aad872",
+    "data": [
+      {
+        "text": "Good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " seeing you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a53a3726-8b93-46be-9dc7-fec1c5bf4871",
+    "data": [
+      {
+        "text": "thank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab53b090-b796-4780-bf43-fa162c3dd208",
+    "data": [
+      {
+        "text": "it is dangourous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44adcbf3-08b1-47ef-976c-25c34d70c204",
+    "data": [
+      {
+        "text": "Thank you doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25024dc2-98a9-4150-ae87-6610b576611c",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

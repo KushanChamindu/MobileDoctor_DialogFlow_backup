@@ -1,0 +1,9 @@
+{
+  "id": "4481c1e9-9fb3-4045-946f-346b2a5ddb1f",
+  "name": "albumin_level",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

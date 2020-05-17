@@ -1,0 +1,20 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "1",
+      "yes",
+      "I have",
+      "present"
+    ]
+  },
+  {
+    "value": "0",
+    "synonyms": [
+      "0",
+      "no",
+      "I haven\u0027t",
+      "not present"
+    ]
+  }
+]

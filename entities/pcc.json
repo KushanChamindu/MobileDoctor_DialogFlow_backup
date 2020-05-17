@@ -1,0 +1,9 @@
+{
+  "id": "cacd7745-07c5-4347-b723-6c8012b54870",
+  "name": "pcc",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

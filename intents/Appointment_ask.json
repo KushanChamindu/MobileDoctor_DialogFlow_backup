@@ -1,0 +1,53 @@
+{
+  "id": "195bf813-19cd-4d81-adf9-71fdcca55338",
+  "name": "Appointment_ask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "I am bot..",
+          "subtitle": "You can\u0027t meet me",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/health-care-support-syst-edba2.appspot.com/o/Dialog%20Flow%20data%2Fbot-flipfin.png?alt\u003dmedia\u0026token\u003d903153ec-622d-4932-9d4d-f81d375e5ff3"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "I am bot",
+          "subtitle": "You can\u0027t meet me",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/health-care-support-syst-edba2.appspot.com/o/Dialog%20Flow%20data%2Fbot-flipfin.png?alt\u003dmedia\u0026token\u003d903153ec-622d-4932-9d4d-f81d375e5ff3"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I am sorry, I am just a bot so You can\u0027t book appointment",
+            "I am bot You can\u0027t meet me",
+            "It is not permitted apportionment"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
